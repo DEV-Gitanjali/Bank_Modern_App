@@ -1,4 +1,4 @@
-import styles from "./style";
+import styles from "./styles";
 import { Billing, Business, CardDeal, Clients, CTA, Footer, Hero, Navbar, Stats, Testimonials } from "./components";
 
 
